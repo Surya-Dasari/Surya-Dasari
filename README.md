@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryanarayana Dasari</h1>
-<h3 align="center">Passionate about automation and scalability</h3>
+<h3 align="center">DevOps Engineer | Automating Workflows, Scaling Infrastructure, and Enhancing Reliability</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
