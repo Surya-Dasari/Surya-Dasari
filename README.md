@@ -2,7 +2,7 @@
 
 **DevOps & Platform Engineer · AWS · Kubernetes · OpenShift · Amazon EKS · Terraform · CI/CD**
 
-Building and supporting enterprise cloud platforms through automation, container orchestration, infrastructure as code, and reliable production operations.
+Building and operating cloud-native platforms with automation, container orchestration, infrastructure as code, secure delivery, and production reliability.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanarayana-dasari-6582321b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryadasari0@gmail.com)
@@ -12,15 +12,14 @@ Building and supporting enterprise cloud platforms through automation, container
 
 ## 👨‍💻 About Me
 
-DevOps & Platform Engineer with **5 years of experience** working with enterprise container platforms and hybrid cloud infrastructure across **OpenShift 4.x and Amazon EKS**.
+DevOps & Platform Engineer with **5 years of experience** building and operating
+enterprise container platforms across **OpenShift 4.x, Amazon EKS and AWS**.
 
 - 📍 Hyderabad, India
-- 🚀 Built and maintained CI/CD pipelines supporting **100+ microservices**
-- ⚡ Reduced CI/CD pipeline execution time by **30–40%** through automation
-- ☸️ Managed Kubernetes workloads across **3+ environments**
-- 🖥️ Supported OpenShift operations and upgrades across **20+ worker nodes per environment**
-- 🐧 Maintained **300+ RHEL systems** across enterprise infrastructure
-- 🔍 Experienced in production support, incident management, observability and RCA
+- ⚙️ Focused on **CI/CD automation, Kubernetes platform engineering, AWS infrastructure and GitOps**
+- 🚀 Experienced in supporting **100+ microservices** across multi-environment deployments
+- 🔧 Strong background in **production operations, platform troubleshooting, automation and observability**
+- 📈 Experienced in improving delivery efficiency, platform reliability and operational processes
 
 ---
 
@@ -63,23 +62,61 @@ DevOps & Platform Engineer with **5 years of experience** working with enterpris
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Code Quality & Artifact Management
+### Security, Quality & Artifacts
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 
 ---
 
-## ⚙️ Core Experience
+## 🚀 Featured Project
 
-- **CI/CD Automation** — Jenkins pipelines for 100+ microservices, Docker image builds, testing, deployments, Bash/Python automation and YAML/JSON configuration handling.
-- **Container Platforms** — OpenShift 4.x and Amazon EKS workload deployment and platform operations using Kubernetes manifests and Helm.
-- **Kubernetes Operations** — Deployments, ConfigMaps, Secrets, Health Probes, Rolling Updates, RBAC, scaling, node groups and workload scheduling across multiple environments.
-- **AWS & Infrastructure as Code** — Terraform-based AWS infrastructure with IAM, IRSA, EC2, EBS, S3, RDS, Route 53, SQS, ALB, Auto Scaling, VPCs, subnets, Security Groups and NACLs.
-- **Automation** — Ansible, RHAAP and Event-Driven Ansible (EDA) for infrastructure automation and alert-driven incident response.
-- **Observability & RCA** — Prometheus, Grafana, Loki, Alertmanager and CloudWatch for monitoring, incident investigation and Root Cause Analysis.
-- **Linux & Operations** — RHEL infrastructure administration, patching, access control, RHEL upgrades, backup/restore and disaster recovery.
-- **Container & Artifact Management** — Quay repositories, Nexus artifacts, image synchronization and multi-environment release operations.
+### [NextGen Platform – DevSecOps](https://github.com/Surya-Dasari/nextgen-platform-devsecops)
+
+A cloud-native microservices platform demonstrating production-oriented
+DevOps and platform engineering practices across **OpenShift, Amazon EKS and Kubernetes**.
+
+| Area | Implementation |
+|---|---|
+| **Application** | Node.js · Spring Boot · PostgreSQL |
+| **CI/CD** | Jenkins · Maven · SonarQube · Nexus |
+| **Containerization** | Docker · Versioned Images · Trivy |
+| **Deployment** | OpenShift · Amazon EKS · Kubernetes |
+| **Configuration** | Kustomize · Helm |
+| **GitOps** | Argo CD · Git-based image updates |
+| **Security** | Sealed Secrets · gitleaks · Trivy |
+| **Observability** | Prometheus · Loki · Alertmanager |
+| **Automation** | Python · Bash |
+| **Messaging** | Kafka |
+
+### Platform & Delivery
+
+- Built an end-to-end **Jenkins CI/CD pipeline** covering release validation, Maven build and unit testing, SonarQube quality gates, Nexus artifact publishing, Docker image builds and Trivy security scanning.
+- Implemented **GitOps-based delivery** where image version changes are committed to Git and reconciled through **Argo CD**.
+- Designed deployment configurations for **OpenShift using Kustomize**, **Amazon EKS using Helm**, and local Kubernetes using kind.
+- Integrated **Sealed Secrets, gitleaks and container vulnerability scanning** into the DevSecOps workflow.
+- Added **Prometheus, Loki and Alertmanager** for platform observability and operational alerting.
+- Maintained architecture documentation and troubleshooting runbooks covering platform operations.
+
+---
+
+## ⚙️ Engineering Focus
+
+### CI/CD & DevSecOps
+Jenkins · Git · Maven · SonarQube · Nexus · Docker · Trivy · GitOps · Argo CD
+
+### Kubernetes Platform Engineering
+OpenShift · Amazon EKS · Kubernetes · Helm · Kustomize · Docker · Quay
+
+### Cloud & Infrastructure
+AWS · Terraform · EC2 · S3 · VPC · IAM · ALB · Auto Scaling · RDS · EBS
+
+### Automation & Operations
+Ansible · RHAAP · Event-Driven Ansible · Python · Bash · Linux/RHEL
+
+### Observability & Reliability
+Prometheus · Grafana · Loki · Alertmanager · CloudWatch · Incident Response · RCA
 
 ---
 
@@ -94,4 +131,6 @@ DevOps & Platform Engineer with **5 years of experience** working with enterpris
 
 Open to **DevOps / Platform Engineering / SRE** opportunities.
 
-📍 Hyderabad, India · ✉️ [Email](mailto:suryadasari0@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/suryanarayana-dasari-6582321b9/)
+📍 Hyderabad, India  
+✉️ [suryadasari0@gmail.com](mailto:suryadasari0@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/suryanarayana-dasari-6582321b9/)
